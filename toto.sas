@@ -1,4 +1,4 @@
 data toto;
-	x=3;
+	x=7;
 	y=4;
 run;
