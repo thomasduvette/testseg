@@ -1,3 +1,4 @@
+/*modif greg*/
 data toto;
 	x=7;
 	y=9;
